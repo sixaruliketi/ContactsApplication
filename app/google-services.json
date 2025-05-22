@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1031614690076",
+    "firebase_url": "https://contacts-app-5b1cf-default-rtdb.firebaseio.com",
+    "project_id": "contacts-app-5b1cf",
+    "storage_bucket": "contacts-app-5b1cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031614690076:android:5f6787f2211bb9bb0640d9",
+        "android_client_info": {
+          "package_name": "com.example.contactsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXsTy-iWI0VaAgbdnQnsMOenfoBsY8jpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
